@@ -12,7 +12,7 @@ params:
 
     homeInfoParams:
         Title: My learning space 
-        Content: I am Siza. I document all my learnings here. Some maybe easy to read and understand, and some might not! Happy learning!   
+        Content: I am Siza. I document all my learnings here. Happy learning!   
 
     ShowReadingTime: true
     ShowBreadCrumbs: true
