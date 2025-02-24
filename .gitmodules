@@ -1,0 +1,10 @@
+[submodule "siza/themes/PaperMod"]
+	path = siza/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "siza/siza.github.io"]
+	path = siza/siza.github.io
+	url = https://github.com/Si-za1/siza.github.io.git
+	branch = main
+[submodule "siza/public"]
+	path = siza/public
+	url = https://github.com/Si-za1/siza.github.io.git

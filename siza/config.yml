@@ -1,0 +1,45 @@
+baseURL: "https://si-za1.github.io/siza.github.io/"
+title: Siza 🇳🇵
+pagerSize: 5
+theme: PaperMod
+copyright: "© Siza 🇳🇵"
+enableEmoji: true
+params:
+    socialIcons: # optional
+      - { name: "Github", url: "https://github.com/Si-za1" }
+      - { name: "LinkedIn", url: "https://www.linkedin.com/in/siza-adhikari-2a9574199/" }
+      - { name: "Medium", url: "https://starter-startler.medium.com/" }
+
+    homeInfoParams:
+        Title: My learning space 
+        Content: I am Siza. I document all my learnings here. Some maybe easy to read and understand, and some might not! Happy learning!   
+
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+menu:
+  main:
+    - identifier: Posts
+      name: Posts
+      url: /Posts/
+      weight: 8
+    - identifier: Archive
+      name: Archive
+      url: /archives/
+      weight: 10
+    - identifier: Search
+      name: Search 
+      url: /search/ 
+      weight: 12
+
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+
+
+googleAnalytics: G-X6LV4QY2G2
