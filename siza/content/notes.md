@@ -1,6 +1,0 @@
----
-title: "Notes"
-layout: "notes"
-url: "/notes/"
-summary: notes
----

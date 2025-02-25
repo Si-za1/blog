@@ -23,14 +23,17 @@ menu:
       name: Posts
       url: /Posts/
       weight: 10
-    - identifier: Notes
-      name: Notes 
-      url: /notes/ 
-      weight: 20
+   
+    - identifier: mylearnings
+      name: "My Learnings"
+      url: "/mylearnings/"
+      weight: 2
+
     - identifier: Archive
       name: Archive
       url: /archives/
       weight: 30
+
     - identifier: Search
       name: Search 
       url: /search/ 
