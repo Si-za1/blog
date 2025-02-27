@@ -23,11 +23,6 @@ menu:
       name: Posts
       url: /Posts/
       weight: 10
-   
-    - identifier: mylearnings
-      name: "MyLearnings"
-      url: "/mylearnings/"
-      weight: 2
 
     - identifier: Archive
       name: Archive

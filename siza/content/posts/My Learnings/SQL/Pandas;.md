@@ -1,10 +1,9 @@
 ---
 share: true
-title: Learning pandas
+title: Learning Pandas
 tags:
   - published
 publish: true
 ---
 
-This is the section where we will host new notes
-share:true 
+This is the section where we will talk about the Pandas

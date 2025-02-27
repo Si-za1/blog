@@ -1,5 +1,5 @@
 ---
 share: true
-title: An Intro
+title: Anime Recommendations and Personal reviews here
 publish: true
 ---

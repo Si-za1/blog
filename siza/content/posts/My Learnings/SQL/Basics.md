@@ -1,6 +1,6 @@
 ---
 share: true
-title: An Intro
+title: Learning SQL from scratch
 publish: true
 ---
 
