@@ -13,10 +13,10 @@ params:
     homeInfoParams:
         Title: My learning space 
         Content: I am Siza. I document all my learnings here. Happy learning!   
-
     ShowReadingTime: true
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
+
 menu:
   main:
     - identifier: Posts
@@ -27,12 +27,12 @@ menu:
     - identifier: Archive
       name: Archive
       url: /archives/
-      weight: 30
+      weight: 20
 
     - identifier: Search
       name: Search 
       url: /search/ 
-      weight: 40
+      weight: 30
 
 
 
